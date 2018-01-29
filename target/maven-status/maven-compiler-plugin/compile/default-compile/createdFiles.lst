@@ -11,4 +11,5 @@ com/howtographql/hackernews/AuthContext.class
 com/howtographql/hackernews/VoteResolver.class
 com/howtographql/hackernews/SigninPayload.class
 com/howtographql/hackernews/LinkRepository.class
+com/howtographql/hackernews/SanitizedError.class
 com/howtographql/hackernews/GraphQLEndpoint.class
